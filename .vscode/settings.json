@@ -1,6 +1,6 @@
 {
     "editor.rulers": [
-        80,
+        80
     ],
     "editor.renderWhitespace": "boundary",
     "editor.tabSize": 4,
@@ -17,7 +17,7 @@
     "[python]": {
         // "editor.defaultFormatter": "ms-python.black-formatter",
         // "editor.defaultFoldingRangeProvider": "ms-python.python",
-        "editor.defaultFormatter": "ms-python.autopep8",
+        "editor.defaultFormatter": "ms-python.python",
         "editor.formatOnType": true,
         "editor.codeActionsOnSave": {
             "source.organizeImports": "never"
@@ -34,6 +34,6 @@
     "python.testing.unittestEnabled": true,
     //
     "coverage-gutters.showLineCoverage": true,
-    "coverage-gutters.showGutterCoverage": true,
-    // "coverage-gutters.showRulerCoverage": true,
+    "coverage-gutters.showGutterCoverage": true
+    // "coverage-gutters.showRulerCoverage": true
 }
